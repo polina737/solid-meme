@@ -7,8 +7,8 @@
 
 За последние недели командой было разработано несколько вариантов интерфейса в Figma.
 
-https://github.com/user-attachments/assets/1e911e60-e4d3-4614-ba53-1d7036fb8b90
-https://github.com/user-attachments/assets/b7e6c17c-f9c8-47aa-9073-c107486e926b
+<img width="831" height="608" alt="image" src="https://github.com/user-attachments/assets/f9156596-4d15-4717-857f-4c00a3c97c1c" />
+<img width="783" height="602" alt="image" src="https://github.com/user-attachments/assets/6fc649d7-5eda-4b01-bac7-893a2cce42fa" />
 
 *   🗳️ **Выбор интерфейса:** Проведен опрос среди команды для выбора наиболее удобного варианта. Базовый дизайн утвержден!
 *   🧠 **Бизнес-логика:** Для доработки логики работы автомата был сформулирован список открытых вопросов. Они будут подняты на ближайшем командном созвоне.
